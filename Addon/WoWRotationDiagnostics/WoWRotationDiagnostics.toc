@@ -1,0 +1,7 @@
+## Interface: 120000
+## Title: WoW Rotation Research Diagnostics
+## Notes: Minimal addon load diagnostic scaffold; no combat automation.
+## Author: WoW Rotation Research
+## Version: 0.1.0
+
+Diagnostics.lua
