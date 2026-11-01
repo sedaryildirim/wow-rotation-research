@@ -5,7 +5,7 @@
 - [x] Swift package and unit-test target
 - [x] Minimal addon load diagnostic
 - [x] macOS CI workflow
-- [ ] Create a new private GitHub repository and push this scaffold
+- [x] Create a public GitHub repository and push this scaffold
 - [ ] Confirm the first CI run passes
 
 ## M2 — Client compatibility research
